@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   title: "Jano Health Analytics Dashboard",
   description: "Comprehensive healthcare analytics for patient retention, drop-off analysis, and operational insights.",
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "https://jano.health/_assets/v11/f7c74073cd2090655f042463fb950fa47cf0f7ff.svg",
   },
 };
 
