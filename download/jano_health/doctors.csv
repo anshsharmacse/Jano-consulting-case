@@ -1,0 +1,26 @@
+doctor_id,specialty,experience_years,hospital_id
+D001,General Practice,2,H001
+D002,General Practice,7,H002
+D003,General Practice,11,H003
+D004,Urology,9,H004
+D005,Internal Medicine,11,H005
+D006,Nephrology,9,H001
+D007,Urology,8,H002
+D008,Nephrology,20,H003
+D009,Nephrology,6,H004
+D010,Nephrology,9,H005
+D011,General Practice,21,H001
+D012,General Practice,13,H002
+D013,Internal Medicine,7,H003
+D014,Internal Medicine,15,H004
+D015,Internal Medicine,8,H005
+D016,Internal Medicine,2,H001
+D017,Nephrology,17,H002
+D018,Nephrology,22,H003
+D019,Nephrology,4,H004
+D020,Internal Medicine,22,H005
+D021,Internal Medicine,16,H001
+D022,Internal Medicine,10,H002
+D023,General Practice,1,H003
+D024,Nephrology,11,H004
+D025,Nephrology,3,H005
